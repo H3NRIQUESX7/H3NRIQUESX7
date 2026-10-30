@@ -49,3 +49,12 @@
 ---
 
 <p align="center">⭐ Curtiu algum projeto? Deixa uma estrela!</p>
+<img data-importer="snake" src="https://raw.githubusercontent.com/h3nriquesx7/h3nriquesx7/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src=""  />
+</div>
+
+###
