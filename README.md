@@ -27,13 +27,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## 📂 Projetos em destaque
-
-| Projeto | Descrição | Tecnologia |
-|---|---|---|
-| [🍕 pizzagourmet12](https://github.com/H3NRIQUESX7/pizzagourmet12) | Site de pizzas | TypeScript |
-| [🛒 site-vendas](https://github.com/H3NRIQUESX7/site-vendas) | Site de vendas | Web |
-| [🍔 hamb-rguer](https://github.com/H3NRIQUESX7/hamb-rguer) | Página de hamburgueria | CSS |
 
 ## 📊 Estatísticas do GitHub
 
